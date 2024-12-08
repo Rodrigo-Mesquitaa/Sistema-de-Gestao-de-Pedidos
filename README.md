@@ -1,2 +1,2 @@
-# Sistema-de-Gest-o-de-Pedidos
+# Sistema-de-Gestao-de-Pedidos
 API RESTful que gerencia um sistema de Pedidos - Front End em ReactJs
